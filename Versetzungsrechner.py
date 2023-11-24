@@ -10,6 +10,7 @@ def frage_nach_prozenten(lernfeld):
 def bestimme_note(prozent):
     note = 6
     # bestimme hier abhängig vom eingegeben Prozentwert die Note
+    pass
     return note
 
 
